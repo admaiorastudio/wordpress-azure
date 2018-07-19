@@ -1,2 +1,3 @@
 #Overriding some configurations
 php_value max_file_uploads 50
+php_value upload_max_filesize 64M
